@@ -1,9 +1,9 @@
 # Data
-DT/data
-DT/DT_data
-DT/np_array
-DT/xgb_example
-DT/clean_data
+DT/data/*
+DT/DT_data/*
+DT/np_array/*
+DT/xgb_example/*
+DT/clean_data/*
 DT/project.7z
 HS/*
 
