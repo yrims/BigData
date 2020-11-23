@@ -95,5 +95,6 @@ if __name__ == '__main__':
                 data = Data(path, c, f)
                 data.preprocess()
                 data.sample()
-                data.plot()
                 data.save()
+                data.plot()
+                

@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from xgboost import XGBClassifier
 
-CLASSES = ['G8', 'G11', 'G15', 'G17', 'G32', 'G34', 'G48']
+CLASSES = ['G8', 'G11', 'G15', 'G17', 'G32', 'G34', 'G48', 'G49']
 DATASIZE = 500
 
 if __name__ == '__main__':
